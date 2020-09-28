@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
+  "name": "ultra.onbibi.com",
   "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "author": "Onbibi",
   "version": "1.0.0",
   "private": "true",
-  "homepage": "http://nodeunblocker.com/",
+  "homepage": "http://ultra.onbibi.com/",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "~1.2.0",
